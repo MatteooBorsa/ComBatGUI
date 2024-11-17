@@ -18,12 +18,14 @@ from repo: https://github.com/inesws/deconfounders_pyClasse.git
 ( please refer to that repo for updates on ComBatHarmonize classe )
 
 # Usage
-![image](https://github.com/user-attachments/assets/44eb5ada-e168-47e4-90ff-361fa65751f9)
 
 - Data : should be a csv file with rows = subjects and columns = features ( functional connectivity, MRI ROIs, genetic features etc.)
 - Covariates : should be a csv file with FIRST ROW = Columns Names, Other rows = subjects (matching Dat) and columns =  covariates
   e.g: index,Batch,Age,Gender,Diagnosis,CT_avg,CT_std,TIV,abGM,abWM,abCSF
 - ComBat Estimates : upload a previous estimated combat model to apply to new test data (it's saved in pickle in the harmonize step) -- usage is still underdevelopment and testing
+
+  ![image](https://github.com/user-attachments/assets/f21e4953-c26f-4552-b2ed-a475e3893365)
+
 
 # References
 - I. W. Sampaio et al.: "Comparison of Multi-site Neuroimaging Data Harmonization Techniques for Machine Learning Applications," IEEE EUROCON 2023 - 20th International Conference on Smart Technologies, Torino, Italy, 2023, pp. 307-312, doi: 10.1109/EUROCON56442.2023.10198911.
