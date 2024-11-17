@@ -18,6 +18,7 @@ from repo: https://github.com/inesws/deconfounders_pyClasse.git
 ( please refer to that repo for updates on ComBatHarmonize classe )
 
 # Usage
+![image](https://github.com/user-attachments/assets/44eb5ada-e168-47e4-90ff-361fa65751f9)
 
 - Data : should be a csv file with rows = subjects and columns = features ( functional connectivity, MRI ROIs, genetic features etc.)
 - Covariates : should be a csv file with FIRST ROW = Columns Names, Other rows = subjects (matching Dat) and columns =  covariates
