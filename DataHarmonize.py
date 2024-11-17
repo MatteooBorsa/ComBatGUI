@@ -4,13 +4,17 @@ from tkinter import *
 from tkinter import ttk
 from tkinter import filedialog
 import pandas as pd
-import scipy.io
+import scipy.io #iopy
 import csv
 import seaborn as sns  
 from tkinter import PhotoImage
 from PIL import Image, ImageTk
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+
+
+import importlib
+
 import new_confounder_correction_classes_combat_modmean_lr_normal
 from new_confounder_correction_classes_combat_modmean_lr_normal import ComBatHarmonization
 import umap
