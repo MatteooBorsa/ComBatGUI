@@ -4,12 +4,12 @@ A Graphical User Interface to harmonize neuroimaging/genetic data with ComBat.
 
 # Install
 
-´´´python
+```python
 conda create -n myenv python=3.12.7
 
 pip install -r requirements.txt
 
-´´´
+```
 # ComBat functions used
 
 cite: I. W. Sampaio et al.: "Comparison of Multi-site Neuroimaging Data Harmonization Techniques for Machine Learning Applications," IEEE EUROCON 2023 - 20th International Conference on Smart Technologies, Torino, Italy, 2023, pp. 307-312, doi: 10.1109/EUROCON56442.2023.10198911.
