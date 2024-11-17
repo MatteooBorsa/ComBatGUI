@@ -4,7 +4,7 @@ A Graphical User Interface to harmonize neuroimaging/genetic data with ComBat.
 
 # Install
 
-´´´bash
+´´´python
 conda create -n myenv python=3.12.7
 
 pip install -r requirements.txt
