@@ -24,7 +24,8 @@ In Data dummy example the structure of the two inputs is exemplified;
   e.g: index,Batch,Age,Gender,Diagnosis,CT_avg,CT_std,TIV,abGM,abWM,abCSF
 - ComBat Estimates : upload a previous estimated combat model to apply to new test data (it's saved in pickle in the harmonize step) -- usage is still underdevelopment and testing
 
-  ![image](https://github.com/user-attachments/assets/f21e4953-c26f-4552-b2ed-a475e3893365)
+![image](https://github.com/user-attachments/assets/51004206-0843-46fd-a9ad-d08ba57b5191)
+
 
 
 # References
