@@ -713,6 +713,11 @@ def openAboutUs():
     labelAboutUs3.place(x=525, y=250)
     labelAboutUs4=customtkinter.CTkLabel(master=frameAboutUs, text='Jonny Marques Arbex\nMatteo Borsa\nLorenzo Castelli', font=('Roboto', 20), bg_color='grey80', fg_color='grey80', text_color='grey30')
     labelAboutUs4.place(x=525, y=300)
+    labelAboutUs5=customtkinter.CTkLabel(master=frameAboutUs, text='With the supervision of', font=('Roboto', 30), bg_color='grey80', fg_color='grey80', text_color='grey30')
+    labelAboutUs5.place(x=500, y=400)
+    labelAboutUs6=customtkinter.CTkLabel(master=frameAboutUs, text='Inês W. Sampaio\nProf. Eleonora Maggioni\nProf. Anna M. Bianchi', font=('Roboto', 20), bg_color='grey80', fg_color='grey80', text_color='grey30')
+    labelAboutUs6.place(x=525, y=450)
+
 
 def creaPag2():
     global buttonPCA, buttonUMAP
