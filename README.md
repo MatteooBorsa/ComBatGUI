@@ -1,7 +1,7 @@
 # ComBat-GUI
 
 A Graphical User Interface to harmonize neuroimaging/genetic data with ComBat.
-Developed by Inês W. Sampaio, Jonny Marques, Lorenzo Castelli, Matteo Borsa
+Developed by Jonny Marques, Lorenzo Castelli, Matteo Borsa, Inês W. Sampaio
 # Install
 
 ```python
