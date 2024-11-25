@@ -12,10 +12,11 @@ pip install -r requirements.txt
 ```
 # ComBat functions used
 
-cite: I. W. Sampaio et al.: "Comparison of Multi-site Neuroimaging Data Harmonization Techniques for Machine Learning Applications," IEEE EUROCON 2023 - 20th International Conference on Smart Technologies, Torino, Italy, 2023, pp. 307-312, doi: 10.1109/EUROCON56442.2023.10198911.
+Implemented combat function  from repo: https://github.com/inesws/neurocombat_pyClasse.git
+( please refer to that repo for updates on the ComBatHarmonize Class)
 
-from repo: https://github.com/inesws/deconfounders_pyClasse.git
-( please refer to that repo for updates on ComBatHarmonize classe )
+Also:
+https://github.com/inesws/deconfounders_pyClasse.git
 
 # Usage
 In Data dummy example the structure of the two inputs is exemplified;
