@@ -25,7 +25,8 @@ In Data dummy example the structure of the two inputs is exemplified;
   e.g: index,Batch,Age,Gender,Diagnosis,CT_avg,CT_std,TIV,abGM,abWM,abCSF
 - ComBat Estimates : upload a previous estimated combat model to apply to new test data (it's saved in pickle in the harmonize step) -- usage is still underdevelopment and testing
 
-![image](https://github.com/user-attachments/assets/51004206-0843-46fd-a9ad-d08ba57b5191)
+![image](https://github.com/user-attachments/assets/fe7f1e7d-e604-485a-81bb-4c0a0970c7bd)
+
 
 # References
 - I. W. Sampaio et al.: "Comparison of Multi-site Neuroimaging Data Harmonization Techniques for Machine Learning Applications," IEEE EUROCON 2023 - 20th International Conference on Smart Technologies, Torino, Italy, 2023, pp. 307-312, doi: 10.1109/EUROCON56442.2023.10198911.
