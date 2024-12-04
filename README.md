@@ -2,8 +2,8 @@
 
 A Graphical User Interface to harmonize neuroimaging/genetic data with ComBat.
 Developed by Jonny Marques, Lorenzo Castelli, Matteo Borsa, Inês W. Sampaio
+Under the guidance of Prof. Eleonora Maggioni and Prof. Anna Maria Bianchi
 
-Supervised by Professor Eleonora Maggioni and Professor Anna Maria Bianchi
 # Install
 
 ```python
@@ -36,6 +36,7 @@ In Data dummy example the structure of the two inputs is exemplified;
 -  Johnson, W. E., Li, C. & Rabinovic, A. Adjusting batch effects in microarray expression data using empirical Bayes methods. Biostatistics 8, 118–127 (2007).
 
 # ACKNOWLEDGEMENTS
+
 Project funded under the National Recovery and Resilience Plan (NRRP), Mission 4, “Education and Research” - Component 2, “From research to Business” Investiment 3.1 - Call for tender No. 3264 of Dec 28, 2021 of Italian Ministry of University and Research (MUR) funded by the European Union - NextGenerationEU, with award number: Project code IR0000011, Concession Decree No. 117 of June 21,2022 adopted by the Italian Ministry of University and Research, CUP B51E22000150006, Project title “EBRAINS-Italy (European Brain ReseArch INfrastructureS-italy).
 
 
