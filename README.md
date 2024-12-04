@@ -2,6 +2,8 @@
 
 A Graphical User Interface to harmonize neuroimaging/genetic data with ComBat.
 Developed by Jonny Marques, Lorenzo Castelli, Matteo Borsa, Inês W. Sampaio
+
+Supervised by Professor Eleonora Maggioni and Professor Anna Maria Bianchi
 # Install
 
 ```python
