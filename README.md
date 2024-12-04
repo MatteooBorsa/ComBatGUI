@@ -2,6 +2,7 @@
 
 A Graphical User Interface to harmonize neuroimaging/genetic data with ComBat.
 Developed by Jonny Marques, Lorenzo Castelli, Matteo Borsa, Inês W. Sampaio
+
 Under the guidance of Prof. Eleonora Maggioni and Prof. Anna Maria Bianchi
 
 # Install
